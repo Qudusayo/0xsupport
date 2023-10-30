@@ -19,7 +19,7 @@ const withAuth = <P extends object>(
 
     useEffect(() => {
       if (!loading && !!!user) {
-        push("/login");
+        push("/app/login");
       }
     }, [user, loading]);
 
