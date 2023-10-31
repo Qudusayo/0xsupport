@@ -9,12 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@celo/contractkit": "^5.1.0",
+    "@celo/identity": "^5.1.0",
+    "@celo/poprf": "^0.1.9",
     "@celo/rainbowkit-celo": "^1.0.1",
     "@headlessui/react": "^1.7.14",
     "@heroicons/react": "^2.0.18",
     "@nextui-org/react": "^2.1.13",
     "@rainbow-me/rainbowkit": "^1.0.2",
     "@web3modal/wagmi": "^3.1.0",
+    "axios": "^1.6.0",
     "ethers": "^5.7.2",
     "firebase": "^10.5.2",
     "formik": "^2.4.5",
