@@ -19,6 +19,7 @@
     "@rainbow-me/rainbowkit": "^1.0.2",
     "@web3modal/wagmi": "^3.1.0",
     "axios": "^1.6.0",
+    "blind-threshold-bls": "https://github.com/celo-org/blind-threshold-bls-wasm#3d1013af",
     "ethers": "^5.7.2",
     "firebase": "^10.5.2",
     "formik": "^2.4.5",
