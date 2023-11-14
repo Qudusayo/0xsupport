@@ -78,7 +78,7 @@ export default function Login() {
   return (
     <AuthLayout type="login">
       <div className="mx-auto flex w-[90%] max-w-md flex-col gap-3">
-        <h1 className="mb-4 text-center text-3xl font-medium">Welcome Back</h1>
+        <h1 className="mb-4 text-center text-3xl">Welcome Back</h1>
         <form
           autoComplete="off"
           className="flex flex-col gap-4"
