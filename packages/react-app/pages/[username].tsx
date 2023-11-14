@@ -17,7 +17,7 @@ export default function Username() {
         </div>
       </div>
       <div className="text-center mt-14">
-        <h2 className="text-3xl ">{pathname?.slice(1)}</h2>
+        <h2 className="text-3xl">{pathname?.slice(1)}</h2>
         <span className="font-medium mt-2 inline-block">Developer</span>
       </div>
       <div className="max-w-5xl mx-auto grid grid-cols-5 gap-10 mt-10">
@@ -33,7 +33,7 @@ export default function Username() {
             deleniti.
           </div>
           <div className="border rounded-md p-5 text-sm leading-relaxed">
-            <h2 className="text-xl ">Recent Supporters</h2>
+            <h2 className="text-xl">Recent Supporters</h2>
           </div>
         </div>
         <div className="border col-span-2 rounded-md p-5">
